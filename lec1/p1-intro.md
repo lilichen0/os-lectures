@@ -17,7 +17,7 @@ backgroundColor: white
 <br>
 <br>
 
-Xiang Yong Chen Yu Li Guoliang
+Ju Ren
 
 <br>
 <br>
@@ -29,42 +29,42 @@ Fall 2022
 ## Course Information
 
 ### Lecturer:
-  - Xiang Yong
+  - Ju Ren
   - Chen Yu
 
-### Teaching Assistant
+### Teaching assistant
   - Guan Haoyang, Tian Kaifu, Zhao Fangliang, He Kunpeng
 
 ---
 
 ## Class Information
 
-### Class time and place
+### Time 
 - Wednesday morning second session 09:50-12:15 (1-16 weeks)
-- Place
-     - Five Teachings 5101
+### Place
+- Fifth Teaching Building 5101
 
 ----
 
-## Preliminary knowledge
+## Preliminary Knowledge
 
-### Programming Languages (Assembly, C, and Rust)
-  - :( not a development app
-  - :) Instead develop system programs
+### Programming languages (Assembly, C, and Rust)
+  - :( Not develop apps
+  - :) Develop system programs
 
-### data structure
+### Data structure
   - :) Just understand the basic data structure
 
 ---
 
-## Preliminary knowledge
+## Preliminary Knowledge
 ### Principles of computer composition
   - :( Mr. Liu/Mr. Kang's RISC-V principle
   - :) Patterson's RISC-V Principles
 
 ### Compilation principle
   - :) It doesn't affect much if you haven't learned it
-  - :( But still learn high level language <–>RISC-V assembly language
+  - :( But you still need to know the high level language <–>RISC-V assembly language
 
 
 ---
@@ -73,15 +73,15 @@ Fall 2022
   font-size: 30px
 }
 </style>
-#### Course Reference
+#### Course reference
 - [Course Slides](https://www.yuque.com/docs/share/4c39608f-3051-4445-96ca-f3c018cb96c7)
-- Reference books
+- Reference book
    * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
    - [In-depth understanding of computer systems](https://hansimov.gitbook.io/csapp/)
    - [RISC-V Reader Chinese version](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf)
-#### Course Practice: rCore Tutorial Book v3
-- [Course Practice Reference Book](https://learningos.github.io/rCore-Tutorial-Book-v3/)
-- [Course Practice Code Warehouse](https://github.com/rcore-os/rCore-Tutorial-v3)
+#### Course practice: rCore tutorial book v3
+- [Course practice reference book](https://learningos.github.io/rCore-Tutorial-Book-v3/)
+- [Course practice code repository](https://github.com/rcore-os/rCore-Tutorial-v3)
 - [API documentation for course practice code](https://github.com/rcore-os/rCore-Tutorial-v3#os-api-docs)
 
 ---
@@ -103,11 +103,11 @@ Fall 2022
 ### Experiment Guide
 
 #### rCore
-- [Experimental Documentation](https://github.com/LearningOS/rCore-Tutorial-Guide-2022S/)
-- [API Documentation](https://github.com/LearningOS/rCore-Tutorial-Guide-2022S/#os-api-docs-of-rcore-tutorial-code-2022s), [Experimental Code](https:/ /github.com/LearningOS/rCore-Tutorial-Code-2022S)
-- [Test Cases](https://github.com/LearningOS/rCore-Tutorial-Test-2022S)
+- [Experimental documentation](https://github.com/LearningOS/rCore-Tutorial-Guide-2022S/)
+- [API documentation](https://github.com/LearningOS/rCore-Tutorial-Guide-2022S/#os-api-docs-of-rcore-tutorial-code-2022s), [Experimental code](https:/ /github.com/LearningOS/rCore-Tutorial-Code-2022S)
+- [Test cases](https://github.com/LearningOS/rCore-Tutorial-Test-2022S)
 
-#### uCore and rCore experiments [Explanation video] (https://www.yuque.com/docs/share/1b5b9260-8a80-4427-a612-78ec72b37e5f)
+#### uCore and rCore experiments [Video] (https://www.yuque.com/docs/share/1b5b9260-8a80-4427-a612-78ec72b37e5f)
 
 ---
 
@@ -116,10 +116,10 @@ Fall 2022
   font-size: 32px
 }
 </style>
+
+
 ![bg right 100%](figs/ucorearch.png)
-
-
-### OS principles and design ideas
+### OS Principles and Design Ideas
 
 * Operating system structure
 * Interrupts and system calls
@@ -131,6 +131,7 @@ Fall 2022
 * I/O subsystem
 
 
+
 ---
 <style scoped>
 {
@@ -140,12 +141,12 @@ Fall 2022
 ## Homework and Experiments
 
 ### Homework
-   - Homework
+   - Exercises
 
-### Basic Experiments
+### Basic experiment
    - Design and implement operating system functions in Rust/C for RISC-V CPU
  
-### Course Design  
+### Course design  
    - Big experiment
 
 ---
@@ -157,10 +158,10 @@ Fall 2022
 
 ## Basic experiments
 ### Experiment 1: Basic support of the operating system
-### Experiment 2: Address Space
-### Experiment 3: Process Management and Scheduling
+### Experiment 2: Address space
+### Experiment 3: Process management and scheduling
 ### Experiment 4: File system and inter-process communication
-### Experiment 5: Synchronizing Mutex
+### Experiment 5: Synchronizing mutex
 
 
 ---
@@ -169,7 +170,7 @@ Fall 2022
   font-size: 30px
 }
 </style>
-## Curriculum Design (Big Experiment)
+## Curriculum Design (Big experiment)
 
 ### Various operating system related functions and extensions
 
@@ -188,14 +189,14 @@ Fall 2022
   font-size: 30px
 }
 </style>
-## grade evaluation
+## Grade Evaluation
 
-### Select 1:
-   - Complete experiment 1 to experiment 5 on time: 30%
-   - Midterm Exam 30% + Final Exam 40% : 70%
+### Choice 1:
+   - Complete experiment 1-5 on time: 30%
+   - Midterm exam 30% + final exam 40% : 70%
 ### Choice 2:
-   - Complete experiment 1 to experiment 5 within four weeks (2022 spring experiment): 30%
-   - Curriculum Design (i.e. Big Experiment): 70%
+   - Complete experiment 1-5 within four weeks (2022 spring experiment): 30%
+   - Curriculum design (i.e., big experiment): 70%
      - Note: Students who choose the big experiment need to take the exam if they quit the course design later.
 
 ---
@@ -204,7 +205,7 @@ Fall 2022
   font-size: 30px
 }
 </style>
-## survey
+## Survey
 
 [Course Selection Questionnaire for 2022 Fall Semester Operating System Course](http://oscourse2019.mikecrm.com/fPozIRL) (Access password: XxW21Ur1CF)
 
